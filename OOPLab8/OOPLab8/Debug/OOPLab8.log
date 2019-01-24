@@ -1,0 +1,23 @@
+﻿  lab_vector_list_deque.cpp
+f:\араз\ooplab8\ooplab8\lab_vector_list_deque.cpp(49): warning C4018: '<': signed/unsigned mismatch
+  f:\араз\ooplab8\ooplab8\lab_vector_list_deque.cpp(165): note: see reference to function template instantiation 'void sizes<int>(const std::vector<int,std::allocator<_Ty>> &)' being compiled
+          with
+          [
+              _Ty=int
+          ]
+f:\араз\ooplab8\ooplab8\lab_vector_list_deque.cpp(59): warning C4018: '<': signed/unsigned mismatch
+  f:\араз\ooplab8\ooplab8\lab_vector_list_deque.cpp(245): note: see reference to function template instantiation 'void sizes<MyString>(const std::vector<MyString *,std::allocator<_Ty>> &)' being compiled
+          with
+          [
+              _Ty=MyString *
+          ]
+f:\араз\ooplab8\ooplab8\lab_vector_list_deque.cpp(64): warning C4018: '<': signed/unsigned mismatch
+  f:\араз\ooplab8\ooplab8\lab_vector_list_deque.cpp(337): note: see reference to function template instantiation 'std::ostream &operator <<<std::vector<int,std::allocator<_Ty>>>(std::ostream &,const std::vector<std::vector<_Ty,std::allocator<_Ty>>,std::allocator<std::vector<_Ty,std::allocator<_Ty>>>> &)' being compiled
+          with
+          [
+              _Ty=int
+          ]
+  MyString.cpp
+  Point.cpp
+  Generating Code...
+  OOPLab8.vcxproj -> F:\Араз\OOPLab8\Debug\OOPLab8.exe
