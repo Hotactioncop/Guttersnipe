@@ -1,0 +1,28 @@
+﻿  main.cpp
+f:\араз\программирование\c22\c22-lab2\c22-lab2\myqueue.h(32): warning C4018: '<': signed/unsigned mismatch
+  f:\араз\программирование\c22\c22-lab2\c22-lab2\myqueue.h(29): note: while compiling class template member function 'std::ostream &operator <<(std::ostream &,MyQueue<MyString> &)'
+  f:\араз\программирование\c22\c22-lab2\c22-lab2\main.cpp(24): note: see reference to class template instantiation 'MyQueue<MyString>' being compiled
+f:\араз\программирование\c22\c22-lab2\c22-lab2\myqueue.h(48): warning C4018: '<': signed/unsigned mismatch
+  f:\араз\программирование\c22\c22-lab2\c22-lab2\myqueue.h(45): note: while compiling class template member function 'MyQueue<MyString>::MyQueue(const MyQueue<MyString> &)'
+  f:\араз\программирование\c22\c22-lab2\c22-lab2\main.cpp(74): note: see reference to function template instantiation 'MyQueue<MyString>::MyQueue(const MyQueue<MyString> &)' being compiled
+f:\араз\программирование\c22\c22-lab2\c22-lab2\myqueue.h(132): warning C4018: '<': signed/unsigned mismatch
+  f:\араз\программирование\c22\c22-lab2\c22-lab2\myqueue.h(124): note: while compiling class template member function 'MyQueue<MyString> &MyQueue<MyString>::operator =(MyQueue<MyString> &&)'
+  f:\араз\программирование\c22\c22-lab2\c22-lab2\main.cpp(83): note: see reference to function template instantiation 'MyQueue<MyString> &MyQueue<MyString>::operator =(MyQueue<MyString> &&)' being compiled
+f:\араз\программирование\c22\c22-lab2\c22-lab2\myqueue.h(112): warning C4018: '<': signed/unsigned mismatch
+  f:\араз\программирование\c22\c22-lab2\c22-lab2\myqueue.h(104): note: while compiling class template member function 'MyQueue<MyString> &MyQueue<MyString>::operator =(const MyQueue<MyString> &)'
+  f:\араз\программирование\c22\c22-lab2\c22-lab2\main.cpp(80): note: see reference to function template instantiation 'MyQueue<MyString> &MyQueue<MyString>::operator =(const MyQueue<MyString> &)' being compiled
+f:\араз\программирование\c22\c22-lab2\c22-lab2\myqueue.h(195): warning C4018: '<': signed/unsigned mismatch
+  f:\араз\программирование\c22\c22-lab2\c22-lab2\myqueue.h(188): note: while compiling class template member function 'bool MyQueue<MyString>::operator ==(const MyQueue<MyString> &) const'
+  f:\араз\программирование\c22\c22-lab2\c22-lab2\main.cpp(96): note: see reference to function template instantiation 'bool MyQueue<MyString>::operator ==(const MyQueue<MyString> &) const' being compiled
+f:\араз\программирование\c22\c22-lab2\c22-lab2\myqueue.h(169): warning C4018: '<': signed/unsigned mismatch
+  f:\араз\программирование\c22\c22-lab2\c22-lab2\main.cpp(46): note: see reference to function template instantiation 'void MyQueue<MyString>::push<MyString&>(TT)' being compiled
+          with
+          [
+              TT=MyString &
+          ]
+  f:\араз\программирование\c22\c22-lab2\c22-lab2\main.cpp(46): note: see reference to function template instantiation 'void MyQueue<MyString>::push<MyString&>(TT)' being compiled
+          with
+          [
+              TT=MyString &
+          ]
+  C22-Lab2.vcxproj -> F:\Араз\Программирование\C22\C22-Lab2\Debug\C22-Lab2.exe
