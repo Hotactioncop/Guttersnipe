@@ -1,0 +1,6 @@
+﻿  lab_3.cpp
+f:\араз\программирование\c22\c22-lab3\c22-lab3\lab_3.cpp(90): warning C4244: 'initializing': conversion from 'unsigned __int64' to 'const int', possible loss of data
+f:\араз\программирование\c22\c22-lab3\c22-lab3\lab_3.cpp(290): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+f:\араз\программирование\c22\c22-lab3\c22-lab3\lab_3.cpp(62): warning C4101: 'ar1': unreferenced local variable
+f:\араз\программирование\c22\c22-lab3\c22-lab3\lab_3.cpp(53): warning C4101: 'ar': unreferenced local variable
+  C22-Lab3.vcxproj -> F:\Араз\Программирование\C22\C22-Lab3\Debug\C22-Lab3.exe
